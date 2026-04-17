@@ -1,4 +1,5 @@
 .env
 docker-compose.yml
-./backend/Dockerfile
-./frontend/Dockerfile
+backend/Dockerfile
+backend/venv
+frontend/Dockerfile
