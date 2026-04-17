@@ -1,5 +1,2 @@
 .env
-docker-compose.yml
-Dockerfile
 venv
-Dockerfile
